@@ -1,0 +1,7 @@
+C:\Users\edward.masilva\source\repos\AulaGithub\AulaGithub\bin\Debug\AulaGithub.exe.config
+C:\Users\edward.masilva\source\repos\AulaGithub\AulaGithub\bin\Debug\AulaGithub.exe
+C:\Users\edward.masilva\source\repos\AulaGithub\AulaGithub\bin\Debug\AulaGithub.pdb
+C:\Users\edward.masilva\source\repos\AulaGithub\AulaGithub\obj\Debug\AulaGithub.csproj.AssemblyReference.cache
+C:\Users\edward.masilva\source\repos\AulaGithub\AulaGithub\obj\Debug\AulaGithub.csproj.CoreCompileInputs.cache
+C:\Users\edward.masilva\source\repos\AulaGithub\AulaGithub\obj\Debug\AulaGithub.exe
+C:\Users\edward.masilva\source\repos\AulaGithub\AulaGithub\obj\Debug\AulaGithub.pdb
